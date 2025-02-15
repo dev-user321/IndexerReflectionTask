@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\C# Quiz\IndexerReflectionTask\IndexerReflectionTask\bin\Debug\net8.0\IndexerReflectionTask.exe
+C:\Users\Lenovo\Desktop\C# Quiz\IndexerReflectionTask\IndexerReflectionTask\bin\Debug\net8.0\IndexerReflectionTask.deps.json
+C:\Users\Lenovo\Desktop\C# Quiz\IndexerReflectionTask\IndexerReflectionTask\bin\Debug\net8.0\IndexerReflectionTask.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C# Quiz\IndexerReflectionTask\IndexerReflectionTask\bin\Debug\net8.0\IndexerReflectionTask.dll
+C:\Users\Lenovo\Desktop\C# Quiz\IndexerReflectionTask\IndexerReflectionTask\bin\Debug\net8.0\IndexerReflectionTask.pdb
+C:\Users\Lenovo\Desktop\C# Quiz\IndexerReflectionTask\IndexerReflectionTask\obj\Debug\net8.0\IndexerReflectionTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C# Quiz\IndexerReflectionTask\IndexerReflectionTask\obj\Debug\net8.0\IndexerReflectionTask.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C# Quiz\IndexerReflectionTask\IndexerReflectionTask\obj\Debug\net8.0\IndexerReflectionTask.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C# Quiz\IndexerReflectionTask\IndexerReflectionTask\obj\Debug\net8.0\IndexerReflectionTask.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# Quiz\IndexerReflectionTask\IndexerReflectionTask\obj\Debug\net8.0\IndexerReflectionTask.dll
+C:\Users\Lenovo\Desktop\C# Quiz\IndexerReflectionTask\IndexerReflectionTask\obj\Debug\net8.0\refint\IndexerReflectionTask.dll
+C:\Users\Lenovo\Desktop\C# Quiz\IndexerReflectionTask\IndexerReflectionTask\obj\Debug\net8.0\IndexerReflectionTask.pdb
+C:\Users\Lenovo\Desktop\C# Quiz\IndexerReflectionTask\IndexerReflectionTask\obj\Debug\net8.0\IndexerReflectionTask.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\C# Quiz\IndexerReflectionTask\IndexerReflectionTask\obj\Debug\net8.0\ref\IndexerReflectionTask.dll

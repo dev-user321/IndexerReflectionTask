@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace IndexerReflectionTask.Implementations
 {
-    public class StudentImp : IStudent
+    public class StudentImp : IPerson<Student>
     {
         List<Student> students = new List<Student>();
         public void Add(Student student)

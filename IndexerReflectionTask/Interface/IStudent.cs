@@ -7,13 +7,13 @@ using System.Threading.Tasks;
 
 namespace IndexerReflectionTask.Interface
 {
-    public interface IStudent
+    public interface IPerson<T>
     {
-        List<Student> GetAll();
-        void Add (Student student);
+        List<T> GetAll();
+        void Add (T t);
         void Clear(int id); 
-        void AddRange(List<Student> students);
-        Student FindById(int id);
+        void AddRange(List<T> t);
+        T FindById(int id);
 
     }
 }
